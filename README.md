@@ -29,7 +29,9 @@ Ideas:
         - https://www.udemy.com/
         - https://www.coursera.org/
         
-      
+      - News Soures
+       
+        - http://news.ycombinator.com/
   
   - Videos
   
