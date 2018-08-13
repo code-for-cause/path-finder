@@ -48,6 +48,8 @@ Ideas:
   
   - Videos
   
+  https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md
+  
   - Article Links
   
   - Books
