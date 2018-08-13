@@ -28,6 +28,19 @@ Ideas:
         - https://freecodecamp.org
         - https://www.udemy.com/
         - https://www.coursera.org/
+        * [Bento](https://www.bento.io)
+        * [Bitsavers.org](http://bitsavers.trailing-edge.com)
+        * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
+        * [Cheat Sheets (Free)](https://dzone.com/refcardz)
+        * [Codingus](http://codingus.blogspot.in)
+        * [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
+        * [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
+        * [Free Tech Books](http://www.freetechbooks.com)
+        * [IBM Redbooks](http://www.redbooks.ibm.com)
+        * [InfoQ Minibooks](http://www.infoq.com/minibooks/)
+        * [InTech: Computer and Information Science](http://www.intechopen.com/subjects/computer-and-information-science)
+        * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
+        * [Learn X in Y minutes](https://learnxinyminutes.com)
         
       - News Soures
        
