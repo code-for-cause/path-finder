@@ -6,12 +6,12 @@ Ideas:
 
 * For Whom
   
-    - Students
-    - Beginners
-    - Learners
-    - Tech Enthusiasts
-    - Researchers
-    - Developers
+    * Students
+    * Beginners
+    * Learners
+    * Tech Enthusiasts
+    * Researchers
+    * Developers
 
 * Why to Begin
 
