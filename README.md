@@ -62,3 +62,4 @@ Ideas:
   - Books
     
      - https://github.com/EbookFoundation/free-programming-books/
+     - http://libgen.io/
