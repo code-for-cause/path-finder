@@ -17,6 +17,11 @@ Ideas:
 
 * How to Begin
 
+    - Follow some of the standard websites.
+    - Read more and more, The more you read, the more you become better
+    - Get a part of group of like-minded people
+    - Use the platforms suiting your requirement and follow them religiously
+
 * Resources
   
   - Websites
@@ -49,7 +54,7 @@ Ideas:
         * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
         * [Learn X in Y minutes](https://learnxinyminutes.com)
         
-      - News Soures
+      - News Sources
        
         - http://news.ycombinator.com/
   
