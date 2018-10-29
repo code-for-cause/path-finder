@@ -15,6 +15,8 @@ Ideas:
 
 * Why to Begin
 
+If you are willing to learn new technologies and would like to do some innovative solution of your own, you'll need to start from somewhere. You first need to clear out your basics, then the specific technologies you would like to learn. 
+
 * How to Begin
 
 * Resources
