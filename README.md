@@ -53,7 +53,7 @@ If you are willing to learn new technologies and would like to do some innovativ
         
       - News Soures
        
-        - http://news.ycombinator.com/
+        - [Hackernews](http://news.ycombinator.com/)
   
   - Videos
   
@@ -63,7 +63,8 @@ If you are willing to learn new technologies and would like to do some innovativ
   
   - Awesome Lists
   
-        * https://github.com/sindresorhus/awesome
+        * [Awesome List of awesome lists by Sinderorhus](https://github.com/sindresorhus/awesome)
+        * [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
   
   - Books
     
