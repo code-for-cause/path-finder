@@ -61,6 +61,10 @@ If you are willing to learn new technologies and would like to do some innovativ
   
   - Article Links
   
+  - Awesome Lists
+  
+        * https://github.com/sindresorhus/awesome
+  
   - Books
     
      - https://github.com/EbookFoundation/free-programming-books/
