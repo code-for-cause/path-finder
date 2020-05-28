@@ -25,18 +25,18 @@ If you are willing to learn new technologies and would like to do some innovativ
       
       - Competitive Programming
         
-        - http://codechef.com/
-        - https://codeforces.com/
-        - https://www.spoj.com/
-        - http://hackerearth.com/
-        - http://hackerrank.com/
+        - [CodeChef](http://codechef.com/)
+        - [Codeforces](https://codeforces.com/)
+        - [Spoj](https://www.spoj.com/)
+        - [Hacker Earth](http://hackerearth.com/)
+        - [Hacker Rank](http://hackerrank.com/)
       
       - Application Development / Web Development
         
-        - http://www.codecademy.com/
-        - https://freecodecamp.org
-        - https://www.udemy.com/
-        - https://www.coursera.org/
+        - [Codecademy](http://www.codecademy.com/)
+        - [Free Code Camp](https://freecodecamp.org)
+        - [Udemy](https://www.udemy.com/)
+        - [Coursera](https://www.coursera.org/)
         * [Bento](https://www.bento.io)
         * [Bitsavers.org](http://bitsavers.trailing-edge.com)
         * [Bookboon: IT & Programming](http://bookboon.com/en/it-programming-ebooks) Cookie required. (email address *requested*, not required)
